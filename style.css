@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  padding: 20px;
+}
+h1 {
+  color: #0077cc;
+}
+.teniska {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.na-sklade { color: green; }
+.vypredane { color: red; }
+img { width: 150px; height: auto; border-radius: 8px; }
